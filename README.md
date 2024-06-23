@@ -104,4 +104,5 @@ dd($resp);
 
 6.TODO
 support laravel 11
-1. array_only 替换
+1. array_only 替换 Arr::only
+2. Vip 模块代码格式不符合 PSR4规范
